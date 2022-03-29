@@ -1,0 +1,52 @@
+/*TAGs*/
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica, Arial;
+}
+
+header{
+	height: 80px;
+	padding: 20px;
+}
+
+footer{
+	clear: both;
+	height: 50px;
+	text-align: center;
+	padding: 10px;
+}
+
+h1{
+	text-align: center;
+	margin: 0 0 50px 0;
+}
+
+p{
+	font-size: 15px;
+	font-family: Arial;
+}
+
+/*IDs*/
+
+#principal{
+	clear: both;
+	min-height: 100px;
+	padding: 100px 0 0 0;
+}
+
+#divLogo{
+	float: left;
+}
+
+#divMenu{
+	float: right;
+}
+
+
+/*Class*/
+.container{
+	width: 960px;
+	margin: 0 auto;
+}
